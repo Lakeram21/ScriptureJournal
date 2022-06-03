@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyScriptureJournal
+build_property.RootNamespace = MyScriptureJournal
+build_property.ProjectDir = c:\Projects\Spring2022\DOTNET CLASSS\JournalApp\MyScriptureJournal\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Projects\Spring2022\DOTNET CLASSS\JournalApp\MyScriptureJournal
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/Scripture/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NyaXB0dXJlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/Scripture/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NyaXB0dXJlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/Scripture/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NyaXB0dXJlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/Scripture/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NyaXB0dXJlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/Scripture/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NyaXB0dXJlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/Spring2022/DOTNET CLASSS/JournalApp/MyScriptureJournal/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ee3u8oh0qg
